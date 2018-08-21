@@ -83,7 +83,7 @@ Every instance consists of a query and its answer along with the utterances that
 
 ## Citation
 
-* [Challenging Reading Comprehension on Daily Conversation: Passage Completion on Multiparty Dialog](). Kaixin Ma, Tomasz Jurczyk, and Jinho D. Choi. In Proceedings of the 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics, NAACL'18, 2018 ([poster](https://www.slideshare.net/jchoi7s/challenging-reading-comprehension-on-daily-conversation-passage-completion-on-multiparty-dialog), [source](https://github.com/Mayer123/Multiparty-Dialog-RC)). 
+* [Challenging Reading Comprehension on Daily Conversation: Passage Completion on Multiparty Dialog](http://aclweb.org/anthology/N18-1185). Kaixin Ma, Tomasz Jurczyk, and Jinho D. Choi. In Proceedings of the 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics, NAACL'18, 2018 ([poster](https://www.slideshare.net/jchoi7s/challenging-reading-comprehension-on-daily-conversation-passage-completion-on-multiparty-dialog), [source](https://github.com/Mayer123/Multiparty-Dialog-RC)). 
 
 
 ## Contact
